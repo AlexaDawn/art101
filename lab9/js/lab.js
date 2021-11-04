@@ -11,7 +11,6 @@ var outputEl = document.getElementById("output");
 var new1El = document.createElement("p");
   new1El.innerHTML = "Bonjour";
 
-
 var new2El = document.createElement("p");
   new2El.innerHTML = "Ca va bien?";
 
